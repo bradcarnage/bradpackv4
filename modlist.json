@@ -8,6 +8,10 @@
             "url": "https://media.forgecdn.net/files/3185/882/appliedenergistics2-8.2.0.jar",
             "sha384sum": "5e6df6e795c722d8e8fe8dca414b8a0ffae0029e2a1c648e63a1657178ae6755e8ba05d374cba7ac6ab1b98088191ab1"
         },
+        "immersive-portals-0.80-mc1.16.5-fabric.jar": {
+            "url": "https://media.forgecdn.net/files/3215/234/immersive-portals-0.80-mc1.16.5-fabric.jar",
+            "sha384sum": "207fc3830e84d97e38ca8d551f68d28e36474059afc412fad2ea1cc3dc93fc99e6854c478c5903a699416b4b140e5410"
+        },
         "flowchat-1.0.5.jar": {
             "url": "https://github.com/bradcarnage/FlowChat/releases/download/1.0.5/flowchat-1.0.5.jar",
             "sha384sum": "eb3593b8d0bac53a967baa177aa7a7c6b1987a33dcc862b397f846ad19d420ef2fc76230d9d574a19172d2be77b32473"
