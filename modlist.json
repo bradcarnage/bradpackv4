@@ -1,4 +1,11 @@
 {
+    "modloader" :{
+        "type": "fabric",
+        "installer": {
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.2/fabric-installer-0.7.2.exe",
+            "sha384sum": "77c08baad86bb0aebabbf68f6fb71051d39483e9439cb1b3aa351173f894cc5a689c1cacd3b0e599de9c3a8ce1d566a4"
+        }
+    },
     "mods": {
         "fabric-api-0.32.0+1.16.jar": {
             "url": "https://media.forgecdn.net/files/3232/20/fabric-api-0.32.0%2B1.16.jar",
