@@ -85,6 +85,10 @@
         "BowInfinityFix-1.16.x-fabric-rv9.jar": {
             "url": "https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar",
             "sha384sum": "6627c582cbe1cd27826c6efa20c0e38b4349c8c32901ae02a166fb34e9a1bd8b244ed6066abb32218963e7e1e7b5f907"
+        },
+        "cloth-config-4.11.15-fabric.jar": {
+            "url": "https://media.forgecdn.net/files/3235/777/cloth-config-4.11.15-fabric.jar",
+            "sha384sum": "d4f1ab8569f81a716a3b93429df307ac0be1e5c119c3277219a38445af1d5365df50b703a2b61d2b635bbd9e0c8d2f9a"
         }
     }
 }
