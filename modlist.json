@@ -63,7 +63,8 @@
         },
         "betterdroppeditems-1.2.4-1.16.2.jar": {
             "url": "https://media.forgecdn.net/files/3108/108/betterdroppeditems-1.2.4-1.16.2.jar",
-            "sha384sum": "2b3b096ca17530d8c055afda62589126dc953c700a15eef8ef5f880b6e624d0a3cb849f79c13cba9fdca49ec2db69dbb"
+            "sha384sum": "2b3b096ca17530d8c055afda62589126dc953c700a15eef8ef5f880b6e624d0a3cb849f79c13cba9fdca49ec2db69dbb",
+            "onesided": "client"
         },
         "antighost-1.16.5-fabric0.30.0-1.1.3.jar": {
             "url": "https://media.forgecdn.net/files/3193/496/antighost-1.16.5-fabric0.30.0-1.1.3.jar",
@@ -75,7 +76,8 @@
         },
         "DamageTilt-1.16-fabric-0.1.2.jar": {
             "url": "https://media.forgecdn.net/files/3198/810/DamageTilt-1.16-fabric-0.1.2.jar",
-            "sha384sum": "5a700eb77d177797c1189809263eace43aa40f755bc6ddccef501cc287b260b1397223ab561012ed794414190a33c267"
+            "sha384sum": "5a700eb77d177797c1189809263eace43aa40f755bc6ddccef501cc287b260b1397223ab561012ed794414190a33c267",
+            "onesided": "client"
         },
         "BowInfinityFix-1.16.x-fabric-rv9.jar": {
             "url": "https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar",
@@ -84,6 +86,38 @@
         "cloth-config-4.11.15-fabric.jar": {
             "url": "https://media.forgecdn.net/files/3235/777/cloth-config-4.11.15-fabric.jar",
             "sha384sum": "d4f1ab8569f81a716a3b93429df307ac0be1e5c119c3277219a38445af1d5365df50b703a2b61d2b635bbd9e0c8d2f9a"
+        },
+        "NoFog-1.16.2-Forge-b1.jar": {
+            "url": "https://media.forgecdn.net/files/3031/210/NoFog-1.16.2-Forge-b1.jar",
+            "sha384sum": "e66e0018ac681f97c2e036e0e042cc6a6b65e9738e202bb3c10839182c76a48d2667407917d43eca371a468c14f70d17",
+            "onesided": "client"
+        },
+        "shulkerboxtooltip-2.3.5+1.16.5.jar": {
+            "url": "https://media.forgecdn.net/files/3195/227/shulkerboxtooltip-2.3.5%2B1.16.5.jar",
+            "sha384sum": "e0249b49d96825ae5e6a94464a9256be764245c12a9cbd3c03df9761c5bf6f991bd35d626699262400ba4c9cc025574f"
+        },
+        "authme-1.16.3-1.4.0.jar": {
+            "url": "https://media.forgecdn.net/files/3073/169/authme-1.16.3-1.4.0.jar",
+            "sha384sum": "a57a0a81b076079be5f834e38b8ff23e9098ea804b3b0804c8ffe3bb79065a5340dfd05f5290f28db31c00e742e626d8",
+            "onesided": "client"
+        },
+        "Controlling-For-Fabric-1.1.3.jar": {
+            "url": "https://media.forgecdn.net/files/3039/289/Controlling-For-Fabric-1.1.3.jar",
+            "sha384sum": "d7e7b989330159ca475ab74df53f0612643ff128beda09819033d61d07b23b07579fd05e4bbb39394a94e432be29943a",
+            "onesided": "client"
+        },
+        "okzoomer-4.0.1+1.16.2.jar": {
+            "url": "https://media.forgecdn.net/files/3048/200/okzoomer-4.0.1%2B1.16.2.jar",
+            "sha384sum": "5149157e908bfb913430d29e2bb1dea384d089398810eb896086c3d37d3b485f39351bbe17b5eeb3acf67c52848bdb88",
+            "onesided": "client"
+        },
+        "no-potion-offset-1.0.2.jar": {
+            "url": "https://media.forgecdn.net/files/3119/667/no-potion-offset-1.0.2.jar",
+            "sha384sum": "08861f0c2e630927a3ec755344fdd73ddceea3a4e5e15b8abbb5b28b73b600c2ec248fc720cf4367a1bffa02df733879"
+        },
+        "mousewheelie-1.6.4+mc1.16.4.jar": {
+            "url": "https://media.forgecdn.net/files/3197/990/mousewheelie-1.6.4%2Bmc1.16.4.jar",
+            "sha384sum": "b0f962bc9fb04b2dddc8f58629628ed7b56fc9f3e11b1f76f1befe73d4cf2c58ca54879139d6995a6d63a04477a0d3a6"
         }
     }
 }
