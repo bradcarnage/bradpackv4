@@ -36,11 +36,6 @@
             "sha384sum": "35a0480c538895d0a02843be48b0c5218d70d118cce04d36f40991eed5d10ddc191e913edec0a6d0400c82cbdabe3a3b",
             "onesided": "client"
         },
-        "sodium-fabric-mc1.16.3-0.1.0.jar": {
-            "url": "https://media.forgecdn.net/files/3067/101/sodium-fabric-mc1.16.3-0.1.0.jar",
-            "sha384sum": "1d142bdcd90d20a5fd083b2cb130c690c71993cfbc8ab39611b09feb0f3a1f37ea9c347d8d41e88dfc2a4ca3d3f7120b",
-            "onesided": "client"
-        },
         "lithium-fabric-mc1.16.5-0.6.4.jar": {
             "url": "https://media.forgecdn.net/files/3215/441/lithium-fabric-mc1.16.5-0.6.4.jar",
             "sha384sum": "20b8bf218be3973fa16e13d7b555a6463fe85eb09bf4624a454ab91ceea173a1be9cdcfbdd9cafec7cbcf3960a2476e4"
