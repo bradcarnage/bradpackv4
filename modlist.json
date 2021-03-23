@@ -2,9 +2,10 @@
     "modloader" :{
         "type": "fabric",
         "installer": {
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.2/fabric-installer-0.7.2.exe",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.2/fabric-installer-0.7.2.jar",
             "mcversion": "1.16.5",
-            "sha384sum": "77c08baad86bb0aebabbf68f6fb71051d39483e9439cb1b3aa351173f894cc5a689c1cacd3b0e599de9c3a8ce1d566a4"
+            "loaderver": "0.11.3",
+            "sha384sum": "487035d485937a81626bcd386de72bdc753b5b7e00e5186278362151d7bb010c04adb5b64f2c080167d32e5029955152"
         }
     },
     "mods": {
