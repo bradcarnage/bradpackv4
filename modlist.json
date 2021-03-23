@@ -15,6 +15,76 @@
         "flowchat-1.0.5.jar": {
             "url": "https://github.com/bradcarnage/FlowChat/releases/download/1.0.5/flowchat-1.0.5.jar",
             "sha384sum": "eb3593b8d0bac53a967baa177aa7a7c6b1987a33dcc862b397f846ad19d420ef2fc76230d9d574a19172d2be77b32473"
+        },
+        "AppleSkin-mc1.16.2-forge-1.0.14.jar": {
+            "url": "https://media.forgecdn.net/files/3035/787/AppleSkin-mc1.16.2-forge-1.0.14.jar",
+            "sha384sum": "e99fbe58623365841ead8490b6b82af5ae900fe0612801c99af5fe97046c6fc034f31f34ebf2a59996464285247a409e",
+            "onesided": "client"
+        },
+        "worldedit-mod-7.2.4.jar": {
+            "url": "https://media.forgecdn.net/files/3237/691/worldedit-mod-7.2.4.jar",
+            "sha384sum": "1f4d9f8f8b321ba5c93b5d6a7d1f888be579a3cc6c8db96518ffcd17dfb0574bbd9d3651e4de1cde3417ca731a7a1ad6",
+            "onesided": "server"
+        },
+        "cleancut-mc1.16-2.2-forge.jar": {
+            "url": "https://media.forgecdn.net/files/3061/943/cleancut-mc1.16-2.2-forge.jar",
+            "sha384sum": "d0332fbdf0d1f1f572f3fb20f502f1277fc1ff5abac910664be0041920d213fe5e245b63fb1d0da03dd1887ec0dd0977",
+            "onesided": "client"
+        },
+        "CraftPresence-Fabric-1.16.5-Release-1.7.6.jar": {
+            "url": "https://media.forgecdn.net/files/3171/40/CraftPresence-Fabric-1.16.5-Release-1.7.6.jar",
+            "sha384sum": "35a0480c538895d0a02843be48b0c5218d70d118cce04d36f40991eed5d10ddc191e913edec0a6d0400c82cbdabe3a3b",
+            "onesided": "client"
+        },
+        "sodium-fabric-mc1.16.3-0.1.0.jar": {
+            "url": "https://media.forgecdn.net/files/3067/101/sodium-fabric-mc1.16.3-0.1.0.jar",
+            "sha384sum": "1d142bdcd90d20a5fd083b2cb130c690c71993cfbc8ab39611b09feb0f3a1f37ea9c347d8d41e88dfc2a4ca3d3f7120b",
+            "onesided": "client"
+        },
+        "lithium-fabric-mc1.16.5-0.6.4.jar": {
+            "url": "https://media.forgecdn.net/files/3215/441/lithium-fabric-mc1.16.5-0.6.4.jar",
+            "sha384sum": "20b8bf218be3973fa16e13d7b555a6463fe85eb09bf4624a454ab91ceea173a1be9cdcfbdd9cafec7cbcf3960a2476e4"
+        },
+        "phosphor-fabric-mc1.16.3-0.7.1+build.11.jar": {
+            "url": "https://media.forgecdn.net/files/3202/749/phosphor-fabric-mc1.16.3-0.7.1%2Bbuild.11.jar",
+            "sha384sum": "40ca488db2dd411961e382349d33d7bc493ebf6cf1faf3400f54447e5f029aec08a650e28c270b1ae0e3518c13521830"
+        },
+        "easiervillagertrading-1.16.5-fabric0.30.0-1.5.4.jar": {
+            "url": "https://media.forgecdn.net/files/3201/364/easiervillagertrading-1.16.5-fabric0.30.0-1.5.4.jar",
+            "sha384sum": "a70787ef16fc962e6f2cacc8682857a443b00535f1c0155a72385a9f497511b9a2d7dd74668d1844d664b30aab07b67a",
+            "onesided": "client"
+        },
+        "repurposed_structures-1.16.5-1.9.0.jar": {
+            "url": "https://media.forgecdn.net/files/3239/765/repurposed_structures-1.16.5-1.9.0.jar",
+            "sha384sum": "7a04286110238c56c4a18a91a868ed71c9e9d4ef7dfc62f350f74cccd01ea94714785dd8e7490e41d2bf5cd4c923faff"
+        },
+        "wolves-with-armor-1.5.2-1.16.2.jar": {
+            "url": "https://media.forgecdn.net/files/3035/557/wolves-with-armor-1.5.2-1.16.2.jar",
+            "sha384sum": "a7fb589bca51a5530be0f35090f0d02975fdba4562077479f0fed2cd9f1f0ab6b62bf0f9b72dcaad6ddab1ae512b8c4b"
+        },
+        "lambdynamiclights-fabric-1.3.4+1.16.jar": {
+            "url": "https://media.forgecdn.net/files/3172/563/lambdynamiclights-fabric-1.3.4%2B1.16.jar",
+            "sha384sum": "df33724c3c69098bcd333116fa7fcfa21d04eda7024f3a00b0920841ef761c6a8cde84bc47d251678cf32bea847e01ab"
+        },
+        "betterdroppeditems-1.2.4-1.16.2.jar": {
+            "url": "https://media.forgecdn.net/files/3108/108/betterdroppeditems-1.2.4-1.16.2.jar",
+            "sha384sum": "2b3b096ca17530d8c055afda62589126dc953c700a15eef8ef5f880b6e624d0a3cb849f79c13cba9fdca49ec2db69dbb"
+        },
+        "antighost-1.16.5-fabric0.30.0-1.1.3.jar": {
+            "url": "https://media.forgecdn.net/files/3193/496/antighost-1.16.5-fabric0.30.0-1.1.3.jar",
+            "sha384sum": "48e290a7887598cd3b0cc5b72d9f61e314139162ae5ead4f78a9f36be6556c8bc7143cdb340896a6060325af4ffda694"
+        },
+        "EditSign-Fabric-1.16.5-2.2.0.jar": {
+            "url": "https://media.forgecdn.net/files/3169/720/EditSign-Fabric-1.16.5-2.2.0.jar",
+            "sha384sum": "3587f3b8fb19ce363de6080ee7571a9e6abae376f2673f56f6ce399917649a10f205d6c425d4d297854054aa3c79ba6a"
+        },
+        "DamageTilt-1.16-fabric-0.1.2.jar": {
+            "url": "https://media.forgecdn.net/files/3198/810/DamageTilt-1.16-fabric-0.1.2.jar",
+            "sha384sum": "5a700eb77d177797c1189809263eace43aa40f755bc6ddccef501cc287b260b1397223ab561012ed794414190a33c267"
+        },
+        "BowInfinityFix-1.16.x-fabric-rv9.jar": {
+            "url": "https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar",
+            "sha384sum": "6627c582cbe1cd27826c6efa20c0e38b4349c8c32901ae02a166fb34e9a1bd8b244ed6066abb32218963e7e1e7b5f907"
         }
     }
 }
