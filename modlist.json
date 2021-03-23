@@ -3,6 +3,7 @@
         "type": "fabric",
         "installer": {
             "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.2/fabric-installer-0.7.2.exe",
+            "mcversion": "1.16.5",
             "sha384sum": "77c08baad86bb0aebabbf68f6fb71051d39483e9439cb1b3aa351173f894cc5a689c1cacd3b0e599de9c3a8ce1d566a4"
         }
     },
